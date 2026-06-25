@@ -51,7 +51,9 @@ https://github.com/ikunshare/ikun-music-mobile
 
 https://github.com/souvenp/lx-netease-music-mobile
 
-https://github.com/timeshiftsauce/CeruMusic
+https://github.com/timeshiftsauce/CeruMusic               （很不幸，归档了）
+
+https://github.com/erikjamesgz/phg-music     （@erikjamesgz）
 
 ---
 ## 🎯 快速导航
